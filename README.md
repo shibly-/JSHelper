@@ -1,0 +1,4 @@
+JSHelper
+========
+
+JavaScript Utility Methods
